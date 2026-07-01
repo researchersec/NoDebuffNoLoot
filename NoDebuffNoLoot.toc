@@ -1,0 +1,31 @@
+## Interface: 20504
+## Title: NoDebuffNoLoot
+## Notes: Identifica debuffs faltantes en bosses y los asigna a jugadores específicos.
+## Author: Antigravity & User
+## Version: 2.4.1
+## X-Curse-Project-ID: 1449461
+## SavedVariables: NoDebuffNoLootDB
+
+# Librerías
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\AceComm-3.0\AceComm-3.0.xml
+
+Locales\enUS.lua
+Locales\esES.lua
+
+Data.lua
+TalentScanner.lua
+SmartSelection.lua
+ConfigUI.lua
+Core.lua
+Assignments.lua
+Options.lua
+UI.lua
+LDB.lua
